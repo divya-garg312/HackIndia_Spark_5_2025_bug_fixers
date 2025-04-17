@@ -1,6 +1,6 @@
 A **real-time posture correction** and **screen time monitoring** system powered by computer vision. 
-# Detects slouching, neck strain, and prolonged screen focus to improve ergonomics and productivity.  
-# The essential Work From Home companion - uses AI to prevent back pain and boost productivity by monitoring your posture and focus habits during remote work sessions.
+**Detects slouching, neck strain, and prolonged screen focus to improve ergonomics and productivity.**
+**The essential Work From Home companion - uses AI to prevent back pain and boost productivity by monitoring your posture and focus habits during remote work sessions.**
 
 
 Features  
